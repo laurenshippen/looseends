@@ -8,8 +8,8 @@ function initializeScenes() {
             { text: "Tell Ransom and Riley the truth.", nextScene: 2 },
             { text: "Ask Ms. Honeywell about the stolen files in her inn.", nextScene: 3 }
         ], // Choices that appear after audio
-        "assets/images/intro.jpg",
-        "assets/audio/intro.mp3?v=" + new Date().getTime(),
+        "https://laurenshippen.github.io/looseends/assets/images/intro.jpg",
+        "https://laurenshippen.github.io/looseends/assets/audio/intro.mp3?v=" + new Date().getTime(),
         true, // Sequential - wait for audio
         "What do I do?", // Text shown after audio
         [
@@ -58,8 +58,8 @@ function initializeScenes() {
         [
             { text: "Break into Hal's office at City Hall.", nextScene: 5 }
         ],
-        "assets/images/hal.jpg",
-        "assets/audio/hal.mp3?v=" + new Date().getTime(),
+        "https://laurenshippen.github.io/looseends/assets/images/hal.jpg",
+        "https://laurenshippen.github.io/looseends/assets/audio/hal.mp3?v=" + new Date().getTime(),
         true,
         "What do I do?",
         [
@@ -92,8 +92,8 @@ function initializeScenes() {
         [
             { text: "Track down Ransom and Riley.", nextScene: 6 }
         ],
-        "assets/images/archer.jpg",
-        "assets/audio/archer.mp3?v=" + new Date().getTime(),
+        "https://laurenshippen.github.io/looseends/assets/images/archer.jpg",
+        "https://laurenshippen.github.io/looseends/assets/audio/archer.mp3?v=" + new Date().getTime(),
         true,
         "What do I do?",
         [
@@ -118,8 +118,8 @@ function initializeScenes() {
         [
             { text: "Go to the inn to talk to Honeywell.", nextScene: 7 }
         ],
-        "assets/images/honeywell.jpg",
-        "assets/audio/honeywell.mp3?v=" + new Date().getTime(),
+        "https://laurenshippen.github.io/looseends/assets/images/honeywell.jpg",
+        "https://laurenshippen.github.io/looseends/assets/audio/honeywell.mp3?v=" + new Date().getTime(),
         true,
         "What do I do?",
         [
