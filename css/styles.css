@@ -267,22 +267,22 @@ body {
 /* Custom Fonts */
 @font-face {
     font-family: 'Title';
-    src: url('../assets/fonts/title.ttf') format('truetype');
+    src: url('../assets/fonts/title.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Dialogue';
-    src: url('../assets/fonts/dialogue.ttf') format('truetype');
+    src: url('../assets/fonts/dialogue.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Transcript';
-    src: url('../assets/fonts/transcripts.ttf') format('truetype');
+    src: url('../assets/fonts/transcripts.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Choices';
-    src: url('../assets/fonts/choice.ttf') format('truetype');
+    src: url('../assets/fonts/choice.woff2') format('woff2');
 } 
