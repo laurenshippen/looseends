@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Adventure Game</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="game-container">
+        <div class="game-content">
+            <div id="scene-image" class="scene-image">
+                <!-- Scene images will be displayed here -->
+            </div>
+            <div class="dialogue-box">
+                <div id="dialogue-text" class="dialogue-text">
+                    <!-- Dialogue text will appear here -->
+                </div>
+                <div id="transcript" class="transcript">
+                    <!-- Transcript text will appear here gradually -->
+                </div>
+                <div id="choices" class="choices">
+                    <!-- Choice buttons will be dynamically added here -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Load game.js first, then scenes.js -->
+    <script src="js/game.js" defer></script>
+    <script src="js/scenes.js" defer></script>
+</body>
+</html> 
