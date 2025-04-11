@@ -71,7 +71,7 @@ body {
     margin-bottom: 2rem;
     letter-spacing: 0.3px;
     text-align: center;
-    background-image: url('../assets/images/dialogue.png');
+    background-image: url('https://laurenshippen.github.io/looseends/assets/images/dialogue.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -117,7 +117,7 @@ body {
 
 /* First choice button */
 .choice-button:nth-child(1) {
-    background-image: url('../assets/images/choice1.png');
+    background-image: url('https://laurenshippen.github.io/looseends/assets/images/choice1.png');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -127,7 +127,7 @@ body {
 
 /* Second choice button */
 .choice-button:nth-child(2) {
-    background-image: url('../assets/images/choice2.png');
+    background-image: url('https://laurenshippen.github.io/looseends/assets/images/choice2.png');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -137,7 +137,7 @@ body {
 
 /* Third choice button */
 .choice-button:nth-child(3) {
-    background-image: url('../assets/images/choice3.png');
+    background-image: url('https://laurenshippen.github.io/looseends/assets/images/choice3.png');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -161,7 +161,7 @@ body {
     transition: transform 0.3s ease;
     margin: 20px auto;
     display: block;
-    background-image: url('/assets/images/tape.jpeg');
+    background-image: url('https://laurenshippen.github.io/looseends/assets/images/tape.jpeg');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -210,7 +210,7 @@ body {
     margin: 10px 0;
     padding: 20px;
     border-left: 3px solid #666;
-    background-image: url('../assets/images/transcript.png');
+    background-image: url('https://laurenshippen.github.io/looseends/assets/images/transcript.png');
     background-size: 100% 100%;
     background-position: center;
     background-repeat: no-repeat;
